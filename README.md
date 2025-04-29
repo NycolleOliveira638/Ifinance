@@ -107,6 +107,126 @@
         </div>
     </section>
 
+    <article class="pricing-conteiner">
+
+     <div class="pricing-content">
+    
+        <div class="resolve-content">
+            <h2>Pricing</h2>
+            <p>Problems trying to resolve the conflict between 
+                the two major realms of Classical physics: Newtonian mechanics </p>
+        </div>
+              
+            <div class="most-conteiner">
+
+                <div class="most-content">
+                    <h2>FREE</h2>
+                    <p>Most calendars are designed 
+                        for teams. Slate is designed 
+                        for freelancers who want
+                         a simple way </p>
+                </div>     
+                
+                <div class="month-content">
+                    <h3>0</h3>
+                    <h4>$</h4>
+                    <h5>Per Month</h5>
+                    <button class="btn-try">Try for free</button>
+                </div>
+            
+            
+                <div class="calendars-content">
+                    <h2>STANDARD</h2>
+                    <p>Most calendars are designed 
+                        for teams. Slate is designed 
+                        for freelancers who want
+                         a simple way </p>
+                </div>     
+                
+                <div>
+                    <h3>19</h3>
+                    <h4>$</h4>
+                    <h5>Per Month</h5>
+                    <button class="btn-try">Try for free</button>
+                </div>
+            
+            </div>
+     </div>
+
+    </article>
+
+    <div>
+        <h2>We Have Branches All 
+            Over The World</h2>
+            <p>The gradual accumulation of information about atomic and 
+                small-scale behaviour during the first quarter of the 20th 
+                century, which gave some indications about how small things 
+                do behave, produced an increasing confusion which was 
+                Heisenberg, and Born.</p>
+
+          <img src="" alt="Desenho do mapa" title="Desenho do mapa" loading="lazy">
+
+    </div>
+ 
+      <div>
+        <img src="" alt="" title="">
+      </div>
+
+     <footer>
+        <div>
+            <div>
+                <h3>Get In Touch</h3>
+                <p>the quick fox jumps over the lazy dog</p>
+            </div>
+
+            <div>
+                <img src="" alt="ícone facebook" title="ícone facebook" loading="lazy">
+                <img src="" alt="ícone instagram" title="ícone instagram" loading="lazy">
+                <img src="" alt="ícone twitter" title="ícone twitter" loading="lazy">
+            </div>
+
+            <div>
+                <h2>Company info</h2>
+                <nav>
+                    <ul>
+                        <li>About Us</li>
+                        <li>Carrier</li>
+                        <li>We are hiring</li>
+                        <li>Blog</li>
+
+                    </ul>
+                </nav>
+            </div>
+
+            <div>
+                <h2>Features</h2>
+                <nav>
+                    <ul>
+                        <li>Business Marketing</li>
+                        <li>User Analytic</li>
+                        <li>Live Chat</li>
+                        <li>Unlimited Support</li>
+
+                    </ul>
+                </nav>
+            </div>
+
+            <div>
+                <h2>Resources</h2>
+                <nav>
+                    <ul>
+                        <li>IOS & Android</li>
+                        <li>Watch a Demo</li>
+                        <li>Customers</li>
+                        <li>API</li>
+
+                    </ul>
+                </nav>
+            </div>
+
+        </div>
+     </footer>
+
      
 </body>
 </html>
